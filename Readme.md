@@ -85,21 +85,6 @@ A simple and elegant weather application that provides real-time weather informa
      
     • Weather condition image
 
-📁 Project Structure
-text
-weather-app/
-│
-├── index.html          # Main HTML file
-├── index.css          # Styles and layout
-├── index.js           # JavaScript functionality
-├── assets/            # Weather condition images
-│   ├── sunny.webp
-│   ├── rain.jpeg
-│   ├── clear.png
-│   ├── clouds.png
-│   └── snow.png
-└── README.md          # Project documentation
-
 🎯 Features in Detail
 
 Weather Conditions Displayed
