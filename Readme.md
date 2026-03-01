@@ -173,4 +173,4 @@ API Endpoint:
 
     ARULMANI S - arulmanisasi174@gmail.com
 
-    Project Link: https://github.com/yourusername/weather-app
+    Project Link: https://github.com/sarulmani/weather-app
